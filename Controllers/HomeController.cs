@@ -53,6 +53,10 @@ namespace Learning_net_2.Controllers
         {
             return new HtmlResult("<h2>Привет мир!</h2>");
         }
+        public static void Disp()
+        {
+            Console.WriteLine("some text");
+        }
 
     }
 }
