@@ -57,6 +57,14 @@ namespace Learning_net_2.Controllers
         {
             Console.WriteLine("some text");
         }
+        public static void someDisp()
+        {
+            Console.WriteLine("some text");
+        }
+        public static void anotherDisp()
+        {
+            Console.WriteLine("some text");
+        }
 
     }
 }
